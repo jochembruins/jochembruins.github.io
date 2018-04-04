@@ -11,14 +11,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     margin: auto;
-    max-width: 800px;
     padding: 2em 2em 4em;
 }
 
 .custom-container{
     width:100%;
     padding:0;
-    max-width: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
