@@ -4,6 +4,11 @@ html {
 }
 
 body {
+
+}
+
+section {
+    margin: auto;
     background: #fff;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     color: #d3d3d3;
@@ -11,10 +16,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     padding: 2em 2em 4em;
-}
-
-section {
-    margin: auto;
 }
 
 
